@@ -11,7 +11,7 @@ import SwiftUI
 struct LogInPage_MVVMApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
