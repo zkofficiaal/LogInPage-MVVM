@@ -66,7 +66,7 @@ LogInPage-MVVM/
 
 ## Integration
 
-Add the folder to your Xcode project, then launch the screen from your
+Add the folder to your  Xcode project, then launch the screen from your
 app's entry point:
 
 ```swift
