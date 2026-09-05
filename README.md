@@ -95,4 +95,4 @@ struct YourApp: App {
 - Wire `showForgotPasswordSheet`, `showPrivacySheet`, and `showTermsSheet`
   in `LoginView` to real content; they currently open placeholder sheets.
 
-  ## Designed by: Muhammad Zahid Khan 
+  ## Designed and Developed by: Muhammad Zahid Khan 
