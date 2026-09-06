@@ -87,7 +87,7 @@ struct YourApp: App {
 - iOS 17+
 - Swift / SwiftUI only — no third-party dependencies.
 
-## Extending
+## Extending 
 
 - Replace `MockAuthenticationService` with a real implementation of
   `AuthenticationService` (Firebase, your own REST API, etc.) — no other
@@ -95,4 +95,4 @@ struct YourApp: App {
 - Wire `showForgotPasswordSheet`, `showPrivacySheet`, and `showTermsSheet`
   in `LoginView` to real content; they currently open placeholder sheets.
 
-  ## Designed and Developed by: Muhammad Zahid Khan 
+  ## Designed and Developed by: Muhammad Zahid Khan iOS developer 
