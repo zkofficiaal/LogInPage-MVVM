@@ -69,7 +69,7 @@ LogInPage-MVVM/
 ## Requirements
 
 - iOS 17+
-- Swift / SwiftUI only — no third-party dependencies.
+- Swift / SwiftUI only — no third-party dependencies .
 
 ## Extending 
 
