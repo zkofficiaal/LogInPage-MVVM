@@ -79,4 +79,4 @@ LogInPage-MVVM/
 - Wire `showForgotPasswordSheet`, `showPrivacySheet`, and `showTermsSheet`
   in `LoginView` to real content; they currently open placeholder sheets.
 
-  ## Designed and Developed by: Muhammad Zahid Khan iOS developer 
+  ## Designed and Developed by: Muhammad Zahid Khan iOS developer  
