@@ -63,24 +63,8 @@ LogInPage-MVVM/
   Sign In / Create Account button never gets stuck behind the keyboard.
 - **Theming.** All colors, spacing, and radii are defined once in
   `AppTheme.swift` — no raw color literals scattered through the components.
-
-## Integration
-
-Add the folder to your  Xcode project, then launch the screen from your
-app's entry point:
-
-```swift
-import SwiftUI
-
-@main
-struct YourApp: App {
-    var body: some Scene {
-        WindowGroup {
-            LoginView()
-        }
-    }
-}
-```
+  
+  ```
 
 ## Requirements
 
